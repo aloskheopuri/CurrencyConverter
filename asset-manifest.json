@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/aloksheopuri.github.io/CurrencyConverter/static/js/main.47223f46.js",
-    "index.html": "/aloksheopuri.github.io/CurrencyConverter/index.html",
-    "main.47223f46.js.map": "/aloksheopuri.github.io/CurrencyConverter/static/js/main.47223f46.js.map"
+    "main.js": "/CurrencyConverter/static/js/main.47223f46.js",
+    "index.html": "/CurrencyConverter/index.html",
+    "main.47223f46.js.map": "/CurrencyConverter/static/js/main.47223f46.js.map"
   },
   "entrypoints": [
     "static/js/main.47223f46.js"
